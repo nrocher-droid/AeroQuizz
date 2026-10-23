@@ -22,3 +22,7 @@ Les questions sont dans le tableau `questions` du fichier `index.html`. Les ques
 
 ## Note sur les visuels
 Cette première version utilise des symboles illustratifs, pas des photographies d'appareils. Pour un vrai jeu d'identification visuelle, remplace les symboles par des photos correctement identifiées et vérifie les licences de réutilisation de chaque image.
+
+
+## Photographies d'appareils
+Le jeu recherche les photographies au fil de la partie via l'API de Wikimedia Commons, avec une recherche liée au modèle de l'avion. Les crédits ouvrent la page source de chaque image. Une connexion Internet est nécessaire pour charger les photographies; si le service est indisponible, le quiz reste jouable avec un symbole de secours. Les licences et les métadonnées peuvent varier selon chaque fichier : consulte la page source avant toute réutilisation hors du jeu.
